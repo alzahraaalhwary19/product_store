@@ -1,16 +1,58 @@
-# product_store
+🛍️ Product Store
 
-A new Flutter project.
+A modern mobile shopping app UI built with Flutter.
 
-## Getting Started
+📱 Project Overview
 
-This project is a starting point for a Flutter application.
+Product Store is a Flutter mobile application focused on building a clean and modern shopping interface.
 
-A few resources to get you started if this is your first Flutter project:
+The project follows the MVVM (Model-View-ViewModel) architecture to organize the application structure and separate UI components from data models and presentation logic.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✨ UI Highlights
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Modern shopping interface
+- Home screen
+- Shopping screen
+- Product display UI
+- Clean and organized layout
+- Reusable Flutter components
+
+🏗️ Architecture
+
+The project follows the MVVM (Model-View-ViewModel) architecture:
+
+- Model: Contains the product data model.
+- View: Contains the application's UI screens.
+- ViewModel: Handles the presentation logic related to products.
+
+📂 Project Structure
+
+lib/
+├── model/
+│   └── product_model.dart
+│
+├── view/
+│   ├── home.dart
+│   └── shopping.dart
+│
+├── viewmodel/
+│   └── product_view_model.dart
+│
+└── main.dart
+
+assets/
+├── headphone.jpeg
+├── Laptop.webp
+└── phone.jpeg 
+
+🛠️ Technologies
+
+- Flutter
+- Dart
+- MVVM Architecture
+
+📌 Project Type
+
+UI-focused Flutter mobile application.
+
+«This project focuses on the mobile app UI and presentation structure.»
