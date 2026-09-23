@@ -25,6 +25,14 @@ The project follows the MVVM (Model-View-ViewModel) architecture:
 - View: Contains the application's UI screens.
 - ViewModel: Handles the presentation logic related to products.
 
+## 📱 ScreenShots
+
+<p align="center">
+  <img src="screenshots/home.png" width="30%">
+  <img src="screenshots/products.png" width="30%">
+  <img src="screenshots/details.png" width="30%">
+</p>
+
 📂 Project Structure
 
 lib/
@@ -44,6 +52,11 @@ assets/
 ├── headphone.jpeg
 ├── Laptop.webp
 └── phone.jpeg 
+
+screenshots/
+├── Home_screen.png
+├── Empty_shopping_cart_screen.png
+└── Shoping_cart_screen.png
 
 🛠️ Technologies
 
