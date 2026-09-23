@@ -30,7 +30,7 @@ The project follows the MVVM (Model-View-ViewModel) architecture:
 <p align="center">
   <img src="screenshots/Home_screen.png" width="30%">
   <img src="screenshots/Empty_shopping_cart_screen.png" width="30%">
-  <img src="screenshots/Shoping_cart_screen.png" width="30%">
+  <img src="screenshots/Shopping_cart_screen.png" width="30%">
 </p>
 
 📂 Project Structure
